@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "Worker_Role": "Astrologer",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIFTEvXCkMIcRpU5ux9qW7NsEoxQLwHegYw&s"
+  },
+  {
+    "id": 2,
+    "Worker_Role": "Assistant",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIFTEvXCkMIcRpU5ux9qW7NsEoxQLwHegYw&s"
+  },
+  {
+    "id": 3,
+    "Worker_Role": "Makeup",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIFTEvXCkMIcRpU5ux9qW7NsEoxQLwHegYw&s"
+  },
+  {
+    "id": 4,
+    "Worker_Role": "Mehndi",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIFTEvXCkMIcRpU5ux9qW7NsEoxQLwHegYw&s"
+  },
+  {
+    "id": 5,
+    "Worker_Role": "Photographer",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIFTEvXCkMIcRpU5ux9qW7NsEoxQLwHegYw&s"
+  },
+  {
+    "id": 6,
+    "Worker_Role": "Plumber",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIFTEvXCkMIcRpU5ux9qW7NsEoxQLwHegYw&s"
+  },
+  {
+    "id": 7,
+    "Worker_Role": "Electrician",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIFTEvXCkMIcRpU5ux9qW7NsEoxQLwHegYw&s"
+  },
+  {
+    "id": 8,
+    "Worker_Role": "Carpenter",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIFTEvXCkMIcRpU5ux9qW7NsEoxQLwHegYw&s"
+  },
+  {
+    "id": 9,
+    "Worker_Role": "Gardener",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIFTEvXCkMIcRpU5ux9qW7NsEoxQLwHegYw&s"
+  },
+  {
+    "id": 10,
+    "Worker_Role": "Housekeeper",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIFTEvXCkMIcRpU5ux9qW7NsEoxQLwHegYw&s"
+  }
+]
