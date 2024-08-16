@@ -2,51 +2,52 @@
   {
     "id": 1,
     "Worker_Role": "Astrologer",
-    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIFTEvXCkMIcRpU5ux9qW7NsEoxQLwHegYw&s"
-  },
-  {
-    "id": 2,
-    "Worker_Role": "Assistant",
-    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIFTEvXCkMIcRpU5ux9qW7NsEoxQLwHegYw&s"
-  },
-  {
-    "id": 3,
-    "Worker_Role": "Makeup",
-    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIFTEvXCkMIcRpU5ux9qW7NsEoxQLwHegYw&s"
-  },
-  {
-    "id": 4,
-    "Worker_Role": "Mehndi",
-    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIFTEvXCkMIcRpU5ux9qW7NsEoxQLwHegYw&s"
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1YluCNV6LjKnj75MfUSRBe2yhDD3f0qqURQ&s"
   },
   {
     "id": 5,
     "Worker_Role": "Photographer",
-    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIFTEvXCkMIcRpU5ux9qW7NsEoxQLwHegYw&s"
+    "icon": "https://cdn-icons-png.flaticon.com/512/8635/8635996.png"
   },
   {
-    "id": 6,
-    "Worker_Role": "Plumber",
-    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIFTEvXCkMIcRpU5ux9qW7NsEoxQLwHegYw&s"
-  },
-  {
-    "id": 7,
-    "Worker_Role": "Electrician",
-    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIFTEvXCkMIcRpU5ux9qW7NsEoxQLwHegYw&s"
+    "id": 4,
+    "Worker_Role": "Mehndi",
+    "icon": "https://i.pinimg.com/736x/5a/94/2e/5a942ef964e1be0f0030931c10af31c6.jpg"
   },
   {
     "id": 8,
     "Worker_Role": "Carpenter",
-    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIFTEvXCkMIcRpU5ux9qW7NsEoxQLwHegYw&s"
+    "icon": "https://cdn-icons-png.flaticon.com/512/732/732555.png"
   },
+  {
+    "id": 3,
+    "Worker_Role": "Makeup",
+    "icon": "https://cdn-icons-png.flaticon.com/512/10786/10786565.png"
+  },
+  {
+    "id": 2,
+    "Worker_Role": "Assistant",
+    "icon": "https://cdn-icons-png.flaticon.com/512/2981/2981855.png"
+  },
+  {
+    "id": 6,
+    "Worker_Role": "Plumber",
+    "icon": "https://cdn-icons-png.flaticon.com/512/1995/1995507.png"
+  },
+  {
+    "id": 7,
+    "Worker_Role": "Electrician",
+    "icon": "https://cdn-icons-png.flaticon.com/512/8734/8734819.png"
+  },
+
   {
     "id": 9,
     "Worker_Role": "Gardener",
-    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIFTEvXCkMIcRpU5ux9qW7NsEoxQLwHegYw&s"
+    "icon": "https://cdn-icons-png.flaticon.com/512/2316/2316118.png"
   },
   {
     "id": 10,
     "Worker_Role": "Housekeeper",
-    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkIFTEvXCkMIcRpU5ux9qW7NsEoxQLwHegYw&s"
+    "icon": "https://cdn-icons-png.flaticon.com/512/4221/4221769.png"
   }
 ]

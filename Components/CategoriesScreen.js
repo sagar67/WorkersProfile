@@ -33,7 +33,7 @@ const CategoriesScreen = () => {
         data={filteredWorkers}
         renderItem={({item}) => <WorkerProfile profile={item} />}
         keyExtractor={item => item.id.toString()}
-        numColumns={2}
+        numColumns={4}
       />
     </View>
   );

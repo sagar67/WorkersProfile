@@ -14,18 +14,29 @@ export default function App() {
         screenOptions={({route}) => ({
           tabBarIcon: ({focused, color, size}) => {
             let iconName;
-
             if (route.name === 'Welcome') {
               iconName = focused ? 'home' : 'home-outline';
             } else if (route.name === 'Categories') {
               iconName = focused ? 'list-circle' : 'list-circle-outline';
             }
-
-            // You can return any component that you like here!
-            return <IconSelector type={ICON_TYPE.Ionicons} name={iconName} size={size} color={color} />;
+            return (
+              <IconSelector
+                type={ICON_TYPE.Ionicons}
+                name={iconName}
+                size={size}
+                color={color}
+              />
+            );
           },
           tabBarActiveTintColor: 'tomato',
           tabBarInactiveTintColor: 'gray',
+          tabBarLabelStyle: {
+            fontSize: 13,
+            paddingBottom:5,
+          },
+          tabBarStyle: {
+            height: 60,
+          },
         })}>
         <Tab.Screen name="Welcome" component={WelcomeScreen} />
         <Tab.Screen name="Categories" component={CategoriesScreen} />
